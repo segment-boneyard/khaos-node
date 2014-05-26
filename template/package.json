@@ -2,8 +2,8 @@
   "name": "{{name}}",
   "description": "{{description}}",
   "repository": "git://github.com/{{repository}}.git",
-  "version": "0.0.0",
-  "license": "{{license}}",
+  "version": "0.0.0",{{#mit}}
+  "license": "MIT",{{/mit}}
   "main": "lib/index.js",
   "dependencies": {},
   "devDependencies": {

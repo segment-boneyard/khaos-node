@@ -1,8 +1,4 @@
 
 var assert = require('assert');
 
-describe('{{name}}', function(){
-
-  // TODO
-
-});
+describe('{{name}}', function(){});
