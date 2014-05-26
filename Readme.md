@@ -3,13 +3,15 @@
 
 A Khaos template to start new node.js projects quickly.
 
-## Usage
+## Installation
 
 Save the template locally with:
 
     $ khaos --save segmentio/khaos-node node
 
-And then create a new project with:
+## Usage
+
+Create a new node.js project with:
 
     $ khaos node my-project
 
