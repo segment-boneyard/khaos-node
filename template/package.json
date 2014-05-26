@@ -1,5 +1,5 @@
 {
-  "name": "{{name}}",
+  "name": "{{basename}}",
   "description": "{{description}}",
   "repository": "git://github.com/{{repository}}.git",
   "version": "0.0.0",{{#mit}}
